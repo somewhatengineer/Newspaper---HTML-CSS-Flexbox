@@ -1,0 +1,104 @@
+.head{
+    display: inline-flex;
+    flex-direction: column;
+    margin: 0;
+    width: 1500px;
+    background-color: #011e29;
+    color: white;
+}
+.explore{
+    display: flex; 
+    margin: 0;
+    gap: 20px;
+    padding: 5px;
+    padding-left: 50px;
+    
+}
+.city{
+    display: flex;
+    margin: 0;
+    gap: 20px;
+    padding: 5px;
+    padding-left: 50px;
+    
+}
+.title{
+    
+}
+p{
+    margin: 0;
+}
+h1{
+    margin: 0;
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Varela', sans-serif;
+}
+img{
+    width: 70px;
+}
+span{
+   color: #19A7CE; 
+}
+li{
+    list-style: none;
+    font-weight: bold;
+}
+.section-bar{
+    display: flex;
+    gap: 75px;
+    padding: 5px;
+    background-color: #DDE6ED;
+    width: 1490px;
+}
+.middle img{
+    width: 580px;
+    float: left;
+    padding-right: 10px;
+}
+.content{
+    display: flex;
+    width: 1490px;
+    padding: 5px;
+    gap: 30px;
+}
+.left{
+    width: 290px;
+    
+}
+.middle{
+    width: 800px;
+}
+.right{
+    width: 400px;
+    
+}
+#sub{
+    color: gray;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+h2{
+    font-weight: bold;
+    font-size: 2rem;
+}
+.left img{
+    width: 280px;
+    float: right;
+    padding-bottom: 5px;
+}
+h3{
+    font-weight: bold;
+}
+.right img{
+    width: 200px;
+    padding-bottom: 5px;
+    float: left;
+    padding: 5px;
+}
+footer{
+    padding: 5px;
+    background-color: #011e29;
+    color: white;
+    text-align: center;
+}
